@@ -1,0 +1,4 @@
+// ToDo
+export enum LicenceType {
+  
+}
